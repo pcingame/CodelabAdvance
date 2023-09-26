@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CodelabAdvance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yes_message">ARTICLE: Like</string>
+    <string name="no_message">ARTICLE: Thanks</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="question_article">LIKE THE ARTICLE?</string>
+    <string name="question_song">LIKE THE SONG?</string>
+    <string name="my_rating">My rating: %s</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title">Does a table need have a primary key?</string>
+    <string name="sample">Columns that define primary keys in one table in a relational model can have a relationship with columns in one or more other tables. The easiest (and recommended) method of defining these relationships using the Data Diagram Editor is provided in the following instructions.\n\nEvery table can have (but does not have to have) a primary key. The column or columns defined as the primary key ensure uniqueness in the table; no two rows can have the same key.\n\nThe primary key of one table may also help to identify records in other tables, and be part of the second table’s primary key. The instance of the first table’s primary key in the second table is referred to as a foreign key.</string>
+</resources>
